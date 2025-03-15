@@ -19,6 +19,11 @@ reportem buracos em vias públicas, registrando sua localização e exibindo os 
 - **React Native Maps**
 - **Expo Location**
 
+## Instalação 
+Siga os passos abaixo para instalar:
+- Baixe a versão mais recente na página [Releases](https://github.com/rn-cantanhede/Cidade_Sem_Buracos/releases/tag/1.0).
+- Execute o arquivo baixado.
+
 ## 🚀 Como Executar
 
 1. Clone este repositório:<br/>
